@@ -24,7 +24,7 @@ Present insights through an interactive Power BI dashboard.
 - **Sales Forecasting**
 - **Interactive Dashboard**
 
-
+__________________________________________________________________________________________________________________________________________
 ### How to Use
 1. Download and install Power BI Desktop.
 2. Clone the repository.
