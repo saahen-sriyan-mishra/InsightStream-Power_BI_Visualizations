@@ -1,4 +1,4 @@
-# POWER BI PROJECTS
+# POWER BI PROJECTS (Interactive Dashboards)
 
 ## E-COMMERCE Platform Sales
 
@@ -8,7 +8,7 @@ Gain insights into sales performance, customer behavior, and product trends thro
 ### Features
 - **Sales Performance Analysis**
 - **Customer Behavior Insights**
-- **Interactive Dashboard**
+
 
 
 ## Store Sales Data Analysis and Forecasting
@@ -20,7 +20,6 @@ Present insights through an interactive Power BI dashboard.
 - **Data Cleaning and Processing**
 - **Time Series Analysis**
 - **Sales Forecasting**
-- **Interactive Dashboard**
 
   
 ## Supply Chain Analytic
@@ -28,26 +27,33 @@ Present insights through an interactive Power BI dashboard.
 ### Overview
 To address service issues and improve customer satisfaction, the task is
 for tracking the 'On Time' and 'In Full' delivery service levels for all customers on a daily basis.
-### Metrics Definition
- Orders and Lines
-- **Orders:** Unique customer requests on a given date.
-- **Order Lines:** Items requested within an order.
- Line Fill Rate & Volume Fill Rate
-- **Line Fill Rate:** Lines shipped out of the total lines ordered, regardless of delivery time.
-- **Volume Fill Rate:** Total quantity shipped for a customer per order or within a given period.
- On Time Delivery %
-- Measured at the order level. Determines if an order is delivered as per the agreed time with the customer.
- In Full Delivery %
-- Measured at the order level. Determines if an order is delivered in full as per the requested quantity by the customer.
- On Time In Full %
-- Measured at the order level. Determines if an order is delivered both in full and on time.
 ### Features
 - **Transforming Data**
 - **Filtering Data**
 - **Showing Trends**
 - **Creating Matrix using DAX**
-- **Interactive Dashboard**
 
+
+##  Hospitality Domain Revenue
+
+### Overview
+To provide revenue management insights from  historical data set.
+### Features
+- **Transforming Data using power query**
+- **Creating new metrics**
+- **Matrix using DAX**
+
+
+##  Pizza Sales Report
+
+### Overview
+To provide sales management insights from  historical data set of pizza sales.
+### Features
+- **SQL Queries for KPI's, Timely Trend, % calculation and Sellers list**
+- **Connecting Power BI to SQL DB**
+- **Data Cleaning using Power Query**
+- **Data Processing, adding Trend Charts and Insights in Power Bi**
+- **Easy Navigator Buttons** 
 
 __________________________________________________________________________________________________________________________________________
 ### How to Use
