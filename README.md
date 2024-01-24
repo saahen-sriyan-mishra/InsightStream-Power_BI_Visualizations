@@ -5,7 +5,6 @@
 ### Overview
 Analyze E-COMMERCE sales data and create an interactive dashboard using Power BI.
 Gain insights into sales performance, customer behavior, and product trends through visualizations.
-
 ### Features
 - **Sales Performance Analysis**
 - **Customer Behavior Insights**
@@ -24,6 +23,7 @@ Present insights through an interactive Power BI dashboard.
 - **Sales Forecasting**
 - **Interactive Dashboard**
 
+
 ## Supply Chain Analytic
 
 ### Overview
@@ -41,7 +41,7 @@ for tracking the 'On Time' and 'In Full' delivery service levels for all custome
 - Measured at the order level. Determines if an order is delivered as per the agreed time with the customer.
  In Full Delivery %
 - Measured at the order level. Determines if an order is delivered in full as per the requested quantity by the customer.
- On Time In Full (OTIF) %
+ On Time In Full %
 - Measured at the order level. Determines if an order is delivered both in full and on time.
 
 ### Features
@@ -50,6 +50,7 @@ for tracking the 'On Time' and 'In Full' delivery service levels for all custome
 - **Showing Trends**
 - **Creating Matrix using DAX**
 - **Interactive Dashboard**
+
 
 __________________________________________________________________________________________________________________________________________
 ### How to Use
