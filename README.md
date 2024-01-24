@@ -16,20 +16,18 @@ Gain insights into sales performance, customer behavior, and product trends thro
 ### Overview
 Analyze store sales data, clean and process it, and utilize time series analysis for accurate sales forecasting.
 Present insights through an interactive Power BI dashboard.
-
 ### Features
 - **Data Cleaning and Processing**
 - **Time Series Analysis**
 - **Sales Forecasting**
 - **Interactive Dashboard**
 
-
+  
 ## Supply Chain Analytic
 
 ### Overview
 To address service issues and improve customer satisfaction, the task is
 for tracking the 'On Time' and 'In Full' delivery service levels for all customers on a daily basis.
-
 ### Metrics Definition
  Orders and Lines
 - **Orders:** Unique customer requests on a given date.
@@ -43,7 +41,6 @@ for tracking the 'On Time' and 'In Full' delivery service levels for all custome
 - Measured at the order level. Determines if an order is delivered in full as per the requested quantity by the customer.
  On Time In Full %
 - Measured at the order level. Determines if an order is delivered both in full and on time.
-
 ### Features
 - **Transforming Data**
 - **Filtering Data**
