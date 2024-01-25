@@ -3,8 +3,8 @@
 ## E-COMMERCE Platform Sales
 
 ### Overview
-Analyze E-COMMERCE sales data and create an interactive dashboard using Power BI.
-Gain insights into sales performance, customer behavior, and product trends through visualizations.
+Analyze E-COMMERCE sales data and create an interactive dashboard to gain insights into sales performance, customer behavior, and product trends through visualizations using Power BI.
+
 ### Features
 - **Sales Performance Analysis**
 - **Customer Behavior Insights**
@@ -13,7 +13,7 @@ Gain insights into sales performance, customer behavior, and product trends thro
 ## Store Sales Data Analysis and Forecasting
 
 ### Overview
-Analyze store sales data, clean and process it, and utilize time series analysis for accurate sales forecasting.
+Analyze store sales data and utilize time series analysis for accurate sales forecasting.
 Present insights through an interactive Power BI dashboard.
 ### Features
 - **Data Cleaning and Processing**
@@ -24,7 +24,7 @@ Present insights through an interactive Power BI dashboard.
 ##  Hospitality Domain Revenue
 
 ### Overview
-To provide revenue management insights from  historical data set.
+To provide revenue management insights from  historical data set  using Power BI.
 ### Features
 - **Transforming Data using power query**
 - **Creating new metrics**
@@ -35,7 +35,7 @@ To provide revenue management insights from  historical data set.
 ##  Pizza Sales Report
 
 ### Overview
-To provide sales management insights from  historical data set of pizza sales.
+To provide sales management insights from  historical data set of pizza sales using Power BI.
 ### Features
 - **SQL Queries for KPI's, Timely Trend, % calculation and Sellers list**
 - **Connecting Power BI to SQL DB**
