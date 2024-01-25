@@ -21,7 +21,7 @@ Present insights through an interactive Power BI dashboard.
 - **Sales Forecasting**
 
 
-##  Hospitality Domain Revenue
+##  Hotel Chain Revenue
 
 ### Overview
 To provide revenue management insights from  historical data set  using Power BI.
