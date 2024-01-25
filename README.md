@@ -10,7 +10,6 @@ Gain insights into sales performance, customer behavior, and product trends thro
 - **Customer Behavior Insights**
 
 
-
 ## Store Sales Data Analysis and Forecasting
 
 ### Overview
@@ -21,18 +20,6 @@ Present insights through an interactive Power BI dashboard.
 - **Time Series Analysis**
 - **Sales Forecasting**
 
-  
-## Supply Chain Analytic
-
-### Overview
-To address service issues and improve customer satisfaction, the task is
-for tracking the 'On Time' and 'In Full' delivery service levels for all customers on a daily basis.
-### Features
-- **Transforming Data**
-- **Filtering Data**
-- **Showing Trends**
-- **Creating Matrix using DAX**
-
 
 ##  Hospitality Domain Revenue
 
@@ -41,7 +28,8 @@ To provide revenue management insights from  historical data set.
 ### Features
 - **Transforming Data using power query**
 - **Creating new metrics**
-- **Matrix using DAX**
+- **Showing Trends**
+- **Creating Matrix using DAX**
 
 
 ##  Pizza Sales Report
@@ -54,6 +42,7 @@ To provide sales management insights from  historical data set of pizza sales.
 - **Data Cleaning using Power Query**
 - **Data Processing, adding Trend Charts and Insights in Power Bi**
 - **Easy Navigator Buttons** 
+
 
 __________________________________________________________________________________________________________________________________________
 ### How to Use
