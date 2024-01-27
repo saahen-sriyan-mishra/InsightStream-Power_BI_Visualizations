@@ -1,5 +1,5 @@
 # POWER BI PROJECTS (Interactive Dashboards)
-(These are in increasing order of project's complexity)
+(In increasing order of project's problem statements complexity)
 ## E-COMMERCE Platform Sales
 
 ### Overview
@@ -27,9 +27,10 @@ Present insights through an interactive Power BI dashboard.
 To provide revenue management insights from  historical data set  using Power BI.
 ### Features
 - **Transforming Data using power query**
-- **Creating new metrics**
+- **Creating new metrics using DAX**
 - **Showing Trends**
-- **Creating Matrix using DAX**
+- **ToolTip Graphs for KPIs**
+- **Multi variate visualisation**
 
 
 ##  Pizza Sales Report
@@ -40,8 +41,9 @@ To provide sales management insights from  historical data set of pizza sales us
 - **SQL Queries for KPI's, Timely Trend, % calculation and Sellers list**
 - **Connecting Power BI to SQL DB**
 - **Data Cleaning using Power Query**
-- **Data Processing, adding Trend Charts and Insights in Power Bi**
-- **Easy Navigator Buttons** 
+- **DAX for new data measures
+- **Data Processing, adding Trends, Charts and Insights in Power Bi**
+- **Easy Navigation** 
 
 
 __________________________________________________________________________________________________________________________________________
