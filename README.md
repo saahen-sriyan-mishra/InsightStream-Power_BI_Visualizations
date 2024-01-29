@@ -8,7 +8,9 @@ Analyze E-COMMERCE sales data and create an interactive dashboard to gain insigh
 ### Features
 - **Sales Performance Analysis**
 - **Customer Behavior Insights**
+**Image**
 ![1 1](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/dab111b7-4e88-4398-a9c4-2c9a5785e2ad)
+
 
 
 ## Store Sales Data Analysis and Forecasting
@@ -20,6 +22,10 @@ Present insights through an interactive Power BI dashboard.
 - **Data Cleaning and Processing**
 - **Time Series Analysis**
 - **Sales Forecasting**
+**Image**
+![2 1](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/8b681554-a0d2-4724-9bb6-ee359c47fded)
+![2 2](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/c1ed2f74-ce32-494c-b89b-eaf12c3070f5)
+
 
 
 ##  Hotel Chain Revenue
@@ -32,6 +38,9 @@ To provide revenue management insights from  historical data set  using Power BI
 - **Showing Trends**
 - **ToolTip Graphs for KPIs**
 - **Multi variate visualisation**
+**Image**
+![3 1](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/eb22e3ac-c85d-43b9-8151-c7af4bc41f00)
+
 
 
 ##  Pizza Sales Report
