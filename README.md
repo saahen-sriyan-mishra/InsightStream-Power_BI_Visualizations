@@ -8,6 +8,7 @@ Analyze E-COMMERCE sales data and create an interactive dashboard to gain insigh
 ### Features
 - **Sales Performance Analysis**
 - **Customer Behavior Insights**
+![1 1](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/dab111b7-4e88-4398-a9c4-2c9a5785e2ad)
 
 
 ## Store Sales Data Analysis and Forecasting
