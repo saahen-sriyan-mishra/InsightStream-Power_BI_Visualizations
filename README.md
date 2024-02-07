@@ -55,9 +55,8 @@ To provide sales management insights from  historical data set of pizza sales us
 - **Connecting Power BI to SQL DB**
 - **Data Cleaning using Power Query**
 - **SQL Documentation**
-- **DAX for new data measures**
 - **Data Processing, adding Trends, Charts and Insights in Power Bi**
-- **Easy Navigation** 
+- **Easy Navigation, Button** 
 
 
 __________________________________________________________________________________________________________________________________________
