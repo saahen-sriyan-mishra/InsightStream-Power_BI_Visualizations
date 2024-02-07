@@ -1,5 +1,5 @@
 # POWER BI PROJECTS (Interactive Dashboards)
-(In increasing order of project's problem statements complexity)
+(In increasing order of project's problem statement's complexity)
 ## E-COMMERCE Platform Sales
 
 ### Overview
