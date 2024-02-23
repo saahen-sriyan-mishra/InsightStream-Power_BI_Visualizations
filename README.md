@@ -56,7 +56,12 @@ To provide sales management insights from  historical data set of pizza sales us
 - **Data Cleaning using Power Query**
 - **SQL Documentation**
 - **Data Processing, adding Trends, Charts and Insights in Power Bi**
-- **Easy Navigation, Button** 
+- **Easy Navigation, Button**
+
+  **Image**
+![4 1](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/b9a684c7-17d2-41df-8bb9-31ddc7f1eb05)
+![4 2](https://github.com/saahen-sriyan-mishra/Power-BI-Projects/assets/139043263/bac3f94c-411d-421b-abc2-053e044ea4e5)
+
 
 
 __________________________________________________________________________________________________________________________________________
