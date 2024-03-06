@@ -66,7 +66,7 @@ To provide sales management insights from  historical data set of pizza sales us
 
 __________________________________________________________________________________________________________________________________________
 ### How to Use
-1. Download and install Power BI Desktop.
-2. Clone the repository.
-3. Open "_____.pbix" file in Power BI.
-4. Explore the interactive dashboard.
+1. Power BI Desktop is to be Downloaded and Installed.
+2. Clone the Repository be cloned.
+3.  "_____.pbix" file is opened in Power BI.
+4. Interactive dashboard ready to be explored.
